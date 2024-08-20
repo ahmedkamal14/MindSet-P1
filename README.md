@@ -2,7 +2,7 @@
 
 **Website URL:** [MindSet-P1](https://ahmedkamal14.github.io/MindSet-P1/)
 
-![MindSet-P1 Preview](https://ahmedkamal14.github.io/MindSet-P1/screenshot.png)
+![MindSet-P1 Preview](screenshot.png)
 
 ## Overview
 
