@@ -8,6 +8,8 @@ export default {
         mint: "#FFFFFF",
         greenC: "#96BB7C",
         blackC: "#252B42",
+        light: "#737373",
+        redC: "#E74040",
       },
     },
   },
