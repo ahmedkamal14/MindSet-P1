@@ -2,6 +2,8 @@
 
 **Website URL:** [MindSet-P1](https://ahmedkamal14.github.io/MindSet-P1/)
 
+![MindSet-P1 Preview](https://ahmedkamal14.github.io/MindSet-P1/screenshot.png)
+
 ## Overview
 
 The MindSet-P1 website, designed and developed by Ahmed Kamal, is a fully responsive platform built using Vite and React. This site is crafted to offer an engaging and interactive user experience with modern design elements and seamless functionality across all screen sizes.
