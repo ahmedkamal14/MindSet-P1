@@ -58,7 +58,6 @@ const Team = () => {
             <img src="./m4.png" alt="Member" className="rounded-t-3xl w-full" />
             <h2 className="text-xl font-bold">Julian Jameson</h2>
             <h4 className="text-black/60 -mt-4">Profession</h4>
-
             <div className="socials flex gap-4 items-center justify-center">
               <FaFacebook className="text-greenC text-2xl hover:scale-125 transition-all duration-300" />
               <FaInstagram className="text-greenC text-2xl hover:scale-125 transition-all duration-300" />

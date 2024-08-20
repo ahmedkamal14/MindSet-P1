@@ -12,7 +12,6 @@ const LiveAction = () => {
             className="w-full h-auto object-contain"
           />
         </div>
-
         {/* Text Section */}
         <div className="text flex flex-col gap-[35px] w-full md:w-[381px] text-center md:text-left">
           <span className="block w-[94px] h-[7px] bg-redC mx-auto md:mx-0"></span>

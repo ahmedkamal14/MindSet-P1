@@ -27,6 +27,7 @@ const NewsLetter = () => {
             Subscribe
           </button>
         </div>
+
       </div>
     </div>
   );

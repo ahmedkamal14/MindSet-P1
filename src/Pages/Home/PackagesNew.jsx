@@ -57,7 +57,6 @@ const PackagesNew = () => {
                 <span className="old text-[#BDBDBD]">$16.48</span>
                 <span className="new text-[#FFAB71]">$6.48</span>
               </div>
-
               <button className="border border-greenC w-auto py-[10px] px-[20px] rounded-[37px] mt-5 text-greenC font-semibold after:content-['\2192'] after:ml-2 hover:scale-105 transition-all duration-300">
                 Learn More
               </button>

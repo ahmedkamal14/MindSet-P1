@@ -16,7 +16,6 @@ const Packages = () => {
             Problems trying to resolve the conflict between the two major realms
             of Classical physics: Newtonian mechanics.
           </p>
-
           <Link className="text-greenC text-[14px] font-bold relative after:content-['\2192'] after:ml-2 hover:text-green-700 transition-all duration-300">
             Learn More
           </Link>

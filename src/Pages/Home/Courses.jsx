@@ -15,7 +15,6 @@ const Courses = () => {
             the two major realms of Classical physics: Newtonian mechanics
           </p>
         </div>
-
         <div className="courses mt-16 md:mt-28 flex flex-col md:flex-row justify-around items-center gap-10 md:gap-5">
           <div className="single flex flex-col items-center justify-center w-full md:w-[450px] gap-[15px] text-center">
             <img

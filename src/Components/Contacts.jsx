@@ -63,7 +63,6 @@ const Contacts = () => {
             </Link>
           </ul>
         </div>
-
         {/* Resources */}
         <div className="flex flex-col gap-6 w-full md:w-1/5">
           <h3 className="text-lg font-bold">Resources</h3>
